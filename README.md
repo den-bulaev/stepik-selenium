@@ -1,2 +1,2 @@
 # stepik-selenium
-homework to course
+homework to course https://stepik.org/course/575/syllabus
